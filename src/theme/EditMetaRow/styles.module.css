@@ -1,0 +1,21 @@
+.lastUpdated {
+	margin-top: 0.2rem;
+	text-align: left;
+}
+
+.lastUpdated small {
+	display: none;
+}
+
+.editPage {
+	font-size: smaller;
+	text-align: left;
+	margin-top: 0.4rem;
+}
+
+@media (min-width: 997px) {
+	.editPage {
+		text-align: right;
+		margin-top: unset;
+	}
+}
