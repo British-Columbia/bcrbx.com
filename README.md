@@ -2,4 +2,4 @@
 
 This repository includes the content and source code for the official website of the BC community.
 
-For content matters, please refer to <https://bcrbx.com/publishing>.
+To learn how publishing content on bcrbx.com works, refer to <https://bcrbx.com/publishing>.
