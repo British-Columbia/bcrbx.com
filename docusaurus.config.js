@@ -31,7 +31,7 @@ const basicSection = (slug, base) => [
 /** @type {import('@docusaurus/types').Config} */
 const config = {
 	title: "British Columbia",
-	// tagline: 'Dinosaurs are cool',
+	tagline: "The official website of the BC community.",
 	favicon: "favicon.ico",
 	titleDelimiter: "•",
 
