@@ -9,8 +9,8 @@ export default function GridPerson({ Name, Title, Img, Bio }) {
 						display: "block",
 						objectFit: "cover",
 						objectPosition: "center",
-						maxWidth: "200px",
-						maxHeight: "200px",
+						maxWidth: "168px",
+						maxHeight: "168px",
 						width: "100%",
 						height: "auto",
 					}}
