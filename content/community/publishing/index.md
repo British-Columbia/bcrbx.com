@@ -1,6 +1,9 @@
 ---
 sidebar_label: Publishing
 displayed_sidebar: publishing
+
+maintainer: publishing
+hide_maintainer: true
 ---
 
 # Publishing on this site

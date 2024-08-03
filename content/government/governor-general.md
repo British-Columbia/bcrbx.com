@@ -1,6 +1,12 @@
 ---
 hide_table_of_contents: true
 sidebar_class_name: d-none
+
+last_review: 2024-07-25
+review_in: 6 months
+maintainer: publishing
+hide_maintainer: true
+hide_review: true
 ---
 
 # Governor General

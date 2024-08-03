@@ -1,5 +1,11 @@
 ---
 hide_table_of_contents: true
+
+last_review: 2024-07-31
+review_in: 1 month
+maintainer: public_service
+hide_maintainer: true
+hide_review: true
 ---
 
 # Cabinet

@@ -6,6 +6,10 @@
 
 import { themes as prismThemes } from "prism-react-renderer";
 
+if (process.env.NODE_ENV === "development") {
+	console.log("Loading config");
+}
+
 /** @type {import('@docusaurus/plugin-content-docs').Options} */
 const ds = {
 	breadcrumbs: false,
@@ -48,9 +52,32 @@ const config = {
 	onBrokenMarkdownLinks: "warn",
 
 	i18n: {
-		defaultLocale: "en",
-		locales: ["en"],
+		defaultLocale: "en-CA",
+		locales: ["en-CA"],
 	},
+
+	presets: [
+		[
+			"classic",
+			/** @type {import('@docusaurus/preset-classic').Options} */
+			({
+				docs: {
+					path: "content/community",
+					routeBasePath: "/",
+					...ds,
+					sidebarPath: "sidebars/community.js",
+					sidebarItemsGenerator: exclusionarySidebarFactory(
+						["social/index", "elections/index"],
+						["honours/index", "publishing/index", "#Publishing"]
+					),
+				},
+				blog: false,
+				theme: {
+					customCss: "./src/css/custom.css",
+				},
+			}),
+		],
+	],
 
 	plugins: [
 		[
@@ -74,29 +101,6 @@ const config = {
 				sidebarPath: "sidebars/history.js",
 				sidebarItemsGenerator: exclusionarySidebarFactory(),
 			},
-		],
-	],
-
-	presets: [
-		[
-			"classic",
-			/** @type {import('@docusaurus/preset-classic').Options} */
-			({
-				docs: {
-					path: "content/community",
-					routeBasePath: "/",
-					...ds,
-					sidebarPath: "sidebars/community.js",
-					sidebarItemsGenerator: exclusionarySidebarFactory(
-						["social/index"],
-						["honours/index", "publishing/index", "#Publishing"]
-					),
-				},
-				blog: false,
-				theme: {
-					customCss: "./src/css/custom.css",
-				},
-			}),
 		],
 	],
 
@@ -128,7 +132,7 @@ const config = {
 			announcementBar: {
 				id: "beta",
 				content:
-					"This website is in beta. There may be glitches or inaccurate information.",
+					"This website is in beta. There may be incomplete or inaccurate information.",
 				isCloseable: true,
 				backgroundColor: "#e8ce0c",
 				textColor: "#000",

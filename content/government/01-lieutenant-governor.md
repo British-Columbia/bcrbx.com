@@ -1,5 +1,11 @@
 ---
 hide_table_of_contents: true
+
+last_review: 2024-07-25
+review_in: 4 months
+maintainer: publishing
+hide_maintainer: true
+hide_review: true
 ---
 
 # Lieutenant Governor

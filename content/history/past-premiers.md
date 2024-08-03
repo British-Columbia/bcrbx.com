@@ -1,5 +1,10 @@
 ---
 hide_table_of_contents: true
+
+last_review: 2024-07-31
+review_in: 2 months
+maintainer: publishing
+hide_maintainer: true
 ---
 
 # Past Premiers and Mayors

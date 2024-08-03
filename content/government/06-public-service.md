@@ -1,3 +1,11 @@
+---
+last_review: 2024-07-25
+review_in: 4 months
+maintainer: public_service
+hide_maintainer: true
+hide_review: true
+---
+
 # Public Service
 
 The BC Public Service is a permanent, politically impartial workforce that serves the government of the day, while retaining the flexibility to serve future governments. It is headed by the [Cabinet Secretary](/gov/premier#the-cabinet-secretary).

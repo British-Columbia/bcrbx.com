@@ -1,3 +1,10 @@
+---
+maintainer: publishing
+hide_maintainer: true
+last_review: 2024-07-25
+review_in: 4 months
+---
+
 # BC Social
 
 <p class="lead-text">

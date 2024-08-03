@@ -1,5 +1,9 @@
 ---
 sidebar_position: -1
+
+maintainer: publishing
+hide_updated: true
+hide_maintainer: true
 ---
 
 # About the community

@@ -128,7 +128,7 @@ Royal BC Museum
 
 [BC Provincial Court](/courts)
 
-[Elections BC](/elections)
+[Elections BC](/elections#elections-bc)
 
 Law Society of BC
 

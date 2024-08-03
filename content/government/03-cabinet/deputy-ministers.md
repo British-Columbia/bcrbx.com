@@ -1,5 +1,11 @@
 ---
 sidebar_label: Deputy Ministers
+
+last_review: 2024-07-31
+review_in: 4 months
+maintainer: public_service
+hide_maintainer: true
+hide_review: true
 ---
 
 # Deputy Ministers' Council
