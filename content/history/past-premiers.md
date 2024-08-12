@@ -20,9 +20,9 @@ import PeopleGrid from "@site/src/components/PeopleGrid";
         { Name: "OhioAtm", Title: "1st Mayor", Bio: "<span class='text--muted'>February 2022 to March 2022</span>" },
     ]} />
 
-## Before March 2022
+## Before February 2022
 
-<p class="margin-bottom--lg">Lieutenant Governors before March 2022 acted as heads of government rather than heads of state.</p>
+<p class="margin-bottom--lg">Lieutenant Governors before February 2022 acted as heads of government rather than heads of state.</p>
 
     <PeopleGrid People={[
         { Name: "FatherLando_n", Title: "Lieutenant Governor", Bio: "<span class='text--muted'>January 2022 to February 2022</span>" },

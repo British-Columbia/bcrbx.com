@@ -12,7 +12,7 @@ review_in: 4 months
 There are three verification badges:
 
 - <img src="/img/verified.png" class="img-inline" /> **Verified** — used for notable individuals
-- <img src="/img/verified_business.png" class="img-inline" /> **Verified Business** — used for most licensed businesses
+- <img src="/img/verified_business.png" class="img-inline" /> **Verified Business** — used for businesses
 - <img src="/img/verified_government.png" class="img-inline" /> **Verified Government** — used for most official accounts
 
 :::danger
@@ -28,6 +28,22 @@ A verified user should have both the verification badge and the appropriate prof
 ## Becoming verified
 
 DM Automationeer to request verification.
+
+<details>
+    <summary>What verification badge can I get?</summary>
+    <p>
+
+    Firstly, you need to be notable; you as in whatever entity the account is for.
+
+    Registered political parties will usually be granted the blue Verified badge. Notable members of the community can also be granted this badge.
+
+    Most businesses, especially those with developer support, will qualify for the Verified Business badge.
+
+    The Verified Government badge is used for agencies, departments, government programmes, ministers, and dedicated department head roles.
+
+    But ultimately it's at the site admins' discretion.
+    </p>
+</details>
 
 If your request is approved, the verified role will be added to your profile.
 
