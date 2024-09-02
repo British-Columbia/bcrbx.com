@@ -4,7 +4,8 @@ import EditThisPage from "@theme/EditThisPage";
 import Link from "@docusaurus/Link";
 import { ThemeClassNames } from "@docusaurus/theme-common";
 import styles from "./styles.module.css";
-import { useDoc, useDateTimeFormat } from "@docusaurus/theme-common/internal";
+import { useDoc } from "@docusaurus/plugin-content-docs/client";
+import { useDateTimeFormat } from "@docusaurus/theme-common/internal";
 import * as chrono from "chrono-node";
 
 const MAINTAINER_NAMES = {
