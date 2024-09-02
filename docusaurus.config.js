@@ -124,7 +124,7 @@ const config = {
 				title: "British Columbia",
 				logo: {
 					alt: "",
-					src: "img/BCIcon.png",
+					src: "img/logo.png",
 				},
 				items: [
 					{ to: "/community", label: "Community", position: "left" },
