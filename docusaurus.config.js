@@ -102,6 +102,18 @@ const config = {
 				sidebarItemsGenerator: exclusionarySidebarFactory(),
 			},
 		],
+
+		[
+			"@docusaurus/plugin-client-redirects",
+			{
+				redirects: [
+					{
+						to: "https://www.roblox.com/games/18743397077/Victoria-British-Columbia-Alpha",
+						from: "/go",
+					},
+				],
+			},
+		],
 	],
 
 	themeConfig:
