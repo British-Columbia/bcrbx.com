@@ -1740,7 +1740,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@docusaurus/core@npm:3.5.2, @docusaurus/core@npm:latest":
+"@docusaurus/core@npm:3.5.2, @docusaurus/core@npm:~3.5.2":
   version: 3.5.2
   resolution: "@docusaurus/core@npm:3.5.2"
   dependencies:
@@ -1879,7 +1879,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@docusaurus/module-type-aliases@npm:3.5.2, @docusaurus/module-type-aliases@npm:latest":
+"@docusaurus/module-type-aliases@npm:3.5.2, @docusaurus/module-type-aliases@npm:~3.5.2":
   version: 3.5.2
   resolution: "@docusaurus/module-type-aliases@npm:3.5.2"
   dependencies:
@@ -1897,7 +1897,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@docusaurus/plugin-client-redirects@npm:latest":
+"@docusaurus/plugin-client-redirects@npm:~3.5.2":
   version: 3.5.2
   resolution: "@docusaurus/plugin-client-redirects@npm:3.5.2"
   dependencies:
@@ -2077,7 +2077,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@docusaurus/preset-classic@npm:latest":
+"@docusaurus/preset-classic@npm:~3.5.2":
   version: 3.5.2
   resolution: "@docusaurus/preset-classic@npm:3.5.2"
   dependencies:
@@ -2198,7 +2198,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@docusaurus/types@npm:3.5.2, @docusaurus/types@npm:latest":
+"@docusaurus/types@npm:3.5.2, @docusaurus/types@npm:~3.5.2":
   version: 3.5.2
   resolution: "@docusaurus/types@npm:3.5.2"
   dependencies:
@@ -3744,11 +3744,11 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "bcrbx@workspace:."
   dependencies:
-    "@docusaurus/core": latest
-    "@docusaurus/module-type-aliases": latest
-    "@docusaurus/plugin-client-redirects": latest
-    "@docusaurus/preset-classic": latest
-    "@docusaurus/types": latest
+    "@docusaurus/core": ~3.5.2
+    "@docusaurus/module-type-aliases": ~3.5.2
+    "@docusaurus/plugin-client-redirects": ~3.5.2
+    "@docusaurus/preset-classic": ~3.5.2
+    "@docusaurus/types": ~3.5.2
     "@mdx-js/react": ^3.0.0
     chrono-node: ^2.7.6
     clsx: ^2.0.0
