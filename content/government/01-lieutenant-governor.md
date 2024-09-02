@@ -52,4 +52,4 @@ The Honourable scriptruntime was sworn in as the province's 2nd Lieutenant Gover
 <br/>1st Lieutenant Governor of British Columbia
 <br/>February 5, 2024 to April 7, 2024
 
-<span class="text--muted text--small">There were [three lieutenant governors before March 2022](/history/past-premiers#before-march-2022), but these acted as heads of government rather than heads of state.</span>
+<span class="text--muted text--small">There were [three lieutenant governors before March 2022](/history/past-premiers#before-february-2022), but these acted as heads of government rather than heads of state.</span>
