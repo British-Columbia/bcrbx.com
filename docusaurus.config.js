@@ -40,9 +40,9 @@ const config = {
 	titleDelimiter: "•",
 
 	// Set the production url of your site here
-	url: "https://bcrbx.com",
+	url: "https://british-columbia.github.io",
 	// Set the /<baseUrl>/ pathname under which your site is served
-	baseUrl: "/",
+	baseUrl: "/bcrbx.com/",
 
 	// GitHub pages deployment config.
 	organizationName: "bcrbx",
